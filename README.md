@@ -123,7 +123,3 @@ Each day is scored and awarded a **badge**:
 
 ---
 
-## 👨‍💻 Author
-
-**Priyanshu Sethi**  
-[GitHub](https://github.com/PRIYANSHUSETHI)
